@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-31T06:27:25.193Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="5yeUGe8eqUPmtyrGjIor" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-31T06:59:07.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="D7L5iceQbXhSYZVPZPBt" version="22.0.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="2033" dy="752" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -317,12 +317,12 @@
         <mxCell id="lCJdlPEH8SyCdXhFGAZo-474" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="lCJdlPEH8SyCdXhFGAZo-15">
           <mxGeometry y="630" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="lCJdlPEH8SyCdXhFGAZo-475" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="lCJdlPEH8SyCdXhFGAZo-474">
+        <mxCell id="lCJdlPEH8SyCdXhFGAZo-475" value="    " style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;" vertex="1" parent="lCJdlPEH8SyCdXhFGAZo-474">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="lCJdlPEH8SyCdXhFGAZo-476" value="deleted tinyint  (是否删除)" style="shape=partialRectangle;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="lCJdlPEH8SyCdXhFGAZo-474">
+        <mxCell id="lCJdlPEH8SyCdXhFGAZo-476" value="预留字段" style="shape=partialRectangle;connectable=1;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;" vertex="1" parent="lCJdlPEH8SyCdXhFGAZo-474">
           <mxGeometry x="30" width="250" height="30" as="geometry">
             <mxRectangle width="250" height="30" as="alternateBounds" />
           </mxGeometry>
