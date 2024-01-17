@@ -1,9 +1,83 @@
-<mxfile host="app.diagrams.net" modified="2024-01-17T06:55:30.494Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.20" etag="5rne3MJ6Us_v-D1JHLql" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T11:22:31.978Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="h3dFauknRDckAqMhf5_z" version="22.1.20" type="github">
   <diagram name="第 1 页" id="lfYT1q7-guhiJE8OA6Kc">
-    <mxGraphModel>
+    <mxGraphModel dx="407" dy="258" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LmUoxtsXqXULf5MlEoAu-25" target="LmUoxtsXqXULf5MlEoAu-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-25" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="45" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LmUoxtsXqXULf5MlEoAu-20" target="LmUoxtsXqXULf5MlEoAu-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-20" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="140" width="350" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-2" value="权限系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-3" value="多租户系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-4" value="api平台" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LmUoxtsXqXULf5MlEoAu-5" target="LmUoxtsXqXULf5MlEoAu-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-5" value="BI系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LmUoxtsXqXULf5MlEoAu-6" target="LmUoxtsXqXULf5MlEoAu-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-6" value="ETL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="440" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="LmUoxtsXqXULf5MlEoAu-7" target="LmUoxtsXqXULf5MlEoAu-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="305" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-7" value="数据仓库" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="390" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-8" value="crm系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="340" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-12" value="租户web面板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-13" value="BI web面板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-14" value="CRM web面板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="60" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-15" value="统一身份认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="150" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-17" value="数据源管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-18" value="计费系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-19" value="监控系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LmUoxtsXqXULf5MlEoAu-34" target="LmUoxtsXqXULf5MlEoAu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="LmUoxtsXqXULf5MlEoAu-34" target="LmUoxtsXqXULf5MlEoAu-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LmUoxtsXqXULf5MlEoAu-34" value="tenant_id" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147.5" y="270" width="75" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
